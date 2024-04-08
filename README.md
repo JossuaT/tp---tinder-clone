@@ -36,6 +36,12 @@ python main.py
 ```
 
 **Deactivate the virtual environment**
+  
+*MacOS*
+```
+source env/bin/deactivate
+```
+*Windows*
 ```
 env/Scripts/deactivate
 ```
