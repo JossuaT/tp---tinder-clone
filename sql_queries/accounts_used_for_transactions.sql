@@ -1,6 +1,7 @@
 SELECT 
     trans.id AS id_transaction,
     trans.amount_in_sats,
+    trans.amount_in_usd,
     from_user.id AS from_user_id,
     to_user.id AS to_user_id,
     from_user.email AS from_email_user,
