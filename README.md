@@ -18,10 +18,12 @@ Le but de ce tp-projet est de créer un clone de tinder (système de swipes) à 
 |  *Install python librairies*   |```pip install -r requirements.txt```|               -               |
 |          *Run script*          |        ```python main.py```         |               -               |
 |*Deactivate virtual environment*|   ```source env/bin/deactivate```   |  ```env/Scripts/deactivate``` |
+
   
-And also :
-  
-**React tinder card template**
+**Create react app**  
+```npx create-react-app my-app```
+
+**React tinder card template**  
 ```npm install --save react-tinder-card```
   
 Then :
@@ -34,6 +36,7 @@ Then :
 
 **Documentation :**
 - [React](https://react.dev/)
+- [Create React App](https://create-react-app.dev/)
 - [NPM](https://docs.npmjs.com/)
 - [react-tinder-card - NPM](https://www.npmjs.com/package/react-tinder-card)
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
