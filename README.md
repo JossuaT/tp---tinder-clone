@@ -22,6 +22,7 @@ Le but de ce tp-projet est de créer un clone de tinder (système de swipes) à 
 And also :
 **React tinder card template**
 ```npm install --save react-tinder-card```
+  
 Then :
 |                     *React*                    |                  *React Native*                   |
 |:----------------------------------------------:|:-------------------------------------------------:|
