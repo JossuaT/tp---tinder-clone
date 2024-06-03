@@ -20,6 +20,7 @@ Le but de ce tp-projet est de créer un clone de tinder (système de swipes) à 
 |*Deactivate virtual environment*|   ```source env/bin/deactivate```   |  ```env/Scripts/deactivate``` |
   
 And also :
+  
 **React tinder card template**
 ```npm install --save react-tinder-card```
   
